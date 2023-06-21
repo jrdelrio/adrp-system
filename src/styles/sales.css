@@ -1,0 +1,71 @@
+.options {
+    float: right;
+    color: black;
+    text-align: right;
+}
+.options-item {
+    margin-left: 8px;
+}
+.options-item:hover {
+    color: green;
+    border: solid black 1px;
+}
+
+Button {
+    background-color: transparent !important;
+    border: none !important;
+    color: black !important;
+}
+
+.ul-container {
+    height: 500px; /* Set the desired height */
+    overflow-y: scroll; /* Enable vertical scrolling */
+    border: 1px solid #ccc;
+}
+
+.modal-sale-name {
+    margin-bottom: 1em;
+}
+
+.delete {
+    color: red
+}
+
+.search-input {
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.wrapper {
+    text-align: left !important;
+}
+
+.icono-lupa {
+    margin-left: 10px;
+}
+
+.list-group {
+    margin-left: 0px;
+}
+
+.block {
+    display: inline;
+}
+
+.list-header {
+    font-weight: bold!important;
+    padding-left: 20px;
+}
+
+.add-sale {
+    float: right;
+    color: white !important;
+    background-color: #198754 !important;
+    text-align: right;
+}
+
+.add-sale:hover {
+    background-color: #13532e !important;
+  border-color: #13532e !important;
+  color: #ffffff !important;
+}

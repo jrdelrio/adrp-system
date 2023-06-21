@@ -1,0 +1,20 @@
+.navbar-item:hover {
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.main-logo {
+    margin-right: 20px;
+}
+
+.logout {
+    color: red !important;
+}
+
+.datetime {
+    color: white;
+    margin-left: auto;
+    margin-right: 50px;
+}

@@ -1,0 +1,44 @@
+.options {
+    float: right;
+    color: black;
+}
+.options-item {
+    margin-left: 8px;
+}
+.options-item:hover {
+    color: green;
+    border: solid black 1px;
+}
+
+.ul-container {
+    height: 500px; /* Set the desired height */
+    overflow-y: scroll; /* Enable vertical scrolling */
+    border: 1px solid #ccc;
+}
+
+Button {
+    background-color: transparent !important;
+    border: none !important;
+    color: black !important;
+}
+
+.modal-client-name {
+    margin-bottom: 1em;
+}
+
+.delete {
+    color: red
+}
+
+.search-input {
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    text-align: left !important;
+}
+
+.search-input {
+    margin-bottom: 20px;
+    width: 50%;
+}

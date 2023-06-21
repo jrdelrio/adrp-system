@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    margin: 100px;
+}
+
+.image-container {
+    height: 250px; /* Adjust the height according to your needs */
+}
+
+.input-field {
+    display: inline !important;
+    width: 40px;
+}
+
+.button {
+    background-color:#007bff !important;
+    float: right !important;
+}
+
+.button:hover {
+    background-color: white !important;
+    border: solid 1px #007bff !important;
+}

@@ -1,0 +1,272 @@
+[
+    {
+      "productId": 1,
+      "name": "Chocolate Cake",
+      "ingredients": ["chocolate", "flour", "sugar"],
+      "price": 10,
+      "sells": 50,
+      "disponible": false,
+      "type": "torta"
+    },
+    {
+      "productId": 2,
+      "name": "Apple Pie",
+      "ingredients": ["apples", "pie crust", "cinnamon"],
+      "price": 8,
+      "sells": 40,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 3,
+      "name": "Strawberry Cheesecake",
+      "ingredients": ["strawberries", "cream cheese", "graham cracker crust"],
+      "price": 9,
+      "sells": 35,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 4,
+      "name": "Blueberry Muffins",
+      "ingredients": ["blueberries", "flour", "sugar"],
+      "price": 6,
+      "sells": 30,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 5,
+      "name": "Lemon Bars",
+      "ingredients": ["lemons", "flour", "powdered sugar"],
+      "price": 7,
+      "sells": 28,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 6,
+      "name": "Banana Bread",
+      "ingredients": ["bananas", "flour", "butter"],
+      "price": 5,
+      "sells": 25,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 7,
+      "name": "Red Velvet Cupcake",
+      "ingredients": ["red food coloring", "cocoa powder", "cream cheese frosting"],
+      "price": 4,
+      "sells": 20,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 8,
+      "name": "Key Lime Pie",
+      "ingredients": ["lime juice", "condensed milk", "graham cracker crust"],
+      "price": 8,
+      "sells": 18,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 9,
+      "name": "Coconut Macaroons",
+      "ingredients": ["coconut flakes", "egg whites", "sugar"],
+      "price": 6,
+      "sells": 15,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 10,
+      "name": "Peach Cobbler",
+      "ingredients": ["peaches", "butter", "cinnamon"],
+      "price": 10,
+      "sells": 25,
+      "disponible": false,
+      "type": "torta"
+    },
+    {
+      "productId": 11,
+      "name": "Chocolate Chip Cookies",
+      "ingredients": ["chocolate chips", "butter", "flour"],
+      "price": 5,
+      "sells": 20,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 12,
+      "name": "Vanilla Cupcake",
+      "ingredients": ["vanilla extract", "flour", "buttercream frosting"],
+      "price": 4,
+      "sells": 15,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 13,
+      "name": "Raspberry Tart",
+      "ingredients": ["raspberries", "pastry dough", "powdered sugar"],
+      "price": 7,
+      "sells": 12,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 14,
+      "name": "Pecan Pie",
+      "ingredients": ["pecans", "corn syrup", "pie crust"],
+      "price": 9,
+      "sells": 10,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 15,
+      "name": "Carrot Cake",
+      "ingredients": ["carrots", "walnuts", "cream cheese frosting"],
+      "price": 8,
+      "sells": 8,
+      "disponible": true,
+      "type": "torta"
+    },
+    {
+      "productId": 16,
+      "name": "Cinnamon Rolls",
+      "ingredients": ["cinnamon", "yeast", "cream cheese frosting"],
+      "price": 6,
+      "sells": 6,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 17,
+      "name": "Strawberry Shortcake",
+      "ingredients": ["strawberries", "whipped cream", "shortcake biscuit"],
+      "price": 7,
+      "sells": 5,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 18,
+      "name": "Mango Sorbet",
+      "ingredients": ["mangoes", "sugar", "lemon juice"],
+      "price": 5,
+      "sells": 4,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 19,
+      "name": "Peanut Butter Fudge",
+      "ingredients": ["peanut butter", "sugar", "condensed milk"],
+      "price": 7,
+      "sells": 3,
+      "disponible": true,
+      "type": "dulce"
+    },
+    {
+      "productId": 20,
+      "name": "Black Forest Cake",
+      "ingredients": ["chocolate cake", "cherries", "whipped cream"],
+      "price": 9,
+      "sells": 2,
+      "disponible": true,
+      "type": "torta"
+    },
+    {
+      "productId": 21,
+      "name": "Lemon Meringue Pie",
+      "ingredients": ["lemons", "meringue", "pie crust"],
+      "price": 8,
+      "sells": 1,
+      "disponible": true,
+      "type": "postre"
+    },
+    {
+      "productId": 22,
+      "name": "Caramel Flan",
+      "ingredients": ["caramel sauce", "eggs", "milk"],
+      "price": 6,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 23,
+      "name": "Cherry Crisp",
+      "ingredients": ["cherries", "oats", "brown sugar"],
+      "price": 7,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 24,
+      "name": "Mint Chocolate Chip Ice Cream",
+      "ingredients": ["mint extract", "chocolate chips", "cream"],
+      "price": 6,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 25,
+      "name": "Gingerbread Cookies",
+      "ingredients": ["ginger", "molasses", "cinnamon"],
+      "price": 5,
+      "sells": 0,
+      "disponible": false,
+      "type": "dulce"
+    },
+    {
+      "productId": 26,
+      "name": "Raspberry Swirl Cheesecake",
+      "ingredients": ["raspberries", "cream cheese", "graham cracker crust"],
+      "price": 9,
+      "sells": 0,
+      "disponible": false,
+      "type": "torta"
+    },
+    {
+      "productId": 27,
+      "name": "Coconut Cream Pie",
+      "ingredients": ["coconut milk", "cream", "pie crust"],
+      "price": 8,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 28,
+      "name": "Mango Pudding",
+      "ingredients": ["mangoes", "gelatin", "sugar"],
+      "price": 6,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 29,
+      "name": "Pistachio Baklava",
+      "ingredients": ["pistachios", "filo pastry", "honey"],
+      "price": 8,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    },
+    {
+      "productId": 30,
+      "name": "Strawberry Rhubarb Crumble",
+      "ingredients": ["strawberries", "rhubarb", "crumble topping"],
+      "price": 7,
+      "sells": 0,
+      "disponible": false,
+      "type": "postre"
+    }
+  ]

@@ -1,0 +1,37 @@
+.card-div {
+    margin-bottom: 14px !important;
+    border-radius: 10px;
+    border: solid 2px rgb(63, 63, 63);
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+}
+.card-body {
+    background-color: rgb(217, 217, 217);
+}
+
+.type-icon {
+    height: 30px;
+    margin-left: 3px;
+}
+
+.type-card-title {
+    margin-bottom: 0px;
+    margin-left: 8px;
+}
+
+.card-div {
+    display: inline-block;
+}
+
+.true {
+    color: green;
+}
+.false {
+    color: red;
+}
+.bi-dot {
+    font-size: 40px;
+}
